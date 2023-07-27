@@ -1,22 +1,3 @@
-.big-box{
-    width: 100%;
-    height: 500px;
+body {
     background-color: rgb(213, 225, 239);
-}
-
-.small-box{
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: column;
-    width: 30%;
-    height: 10%;
-}
-
-p {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: darkgray;
-}
-
-img {
-    size: 20px;
 }
