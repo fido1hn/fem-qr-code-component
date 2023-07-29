@@ -9,3 +9,7 @@ body {
     flex-direction: column;
     border: 2px solid green;
 }
+
+img {
+    width: 20%;
+}
